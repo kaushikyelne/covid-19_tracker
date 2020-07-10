@@ -1,5 +1,7 @@
 ### [Live Site](https://kaushikyelne.github.io/covid-19_tracker/)
 
+deployed the Tracker App Website to GitHub Pages
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
