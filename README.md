@@ -1,4 +1,4 @@
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://kaushikyelne.github.io/covid-19_tracker/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
