@@ -2,6 +2,10 @@
 
 deployed the Tracker App Website to GitHub Pages
 
+<div style="align:center">
+  <img src ="/diimage1.PNG"/>
+  <img src ="dimage.png/>
+</div>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
