@@ -1,6 +1,6 @@
 ### [Live Site](https://kaushikyelne.github.io/covid-19_tracker/)
 
-deployed the Tracker App Website to GitHub Pages
+Deployed the Tracker App Website to GitHub Pages
 
 <div>
   <img src ="/dimage.PNG"/>
